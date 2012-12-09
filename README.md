@@ -10,7 +10,6 @@ Instructions:
 2. In the autoload file (/application/config/autoload.php):
 	- Add the multilanguage library:
 		$autoload['libraries'] = array('multilanguage');
-
 	- Add the language files:
 		$autoload['language'] = array('app');
 
