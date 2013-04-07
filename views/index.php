@@ -14,5 +14,5 @@
 <p><a href="/test/language/?lang=english&uri=<?php print(uri_string()); ?>" > English</a></p>
 <p><a href="/test/language/?lang=spanish&uri=<?php print(uri_string()); ?>" > Español</a></p>
 
-<body>
+</body>
 </html>
